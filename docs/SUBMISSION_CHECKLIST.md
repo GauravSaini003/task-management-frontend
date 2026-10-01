@@ -7,7 +7,7 @@ Replace these placeholders before sending the assignment:
 - [ ] Deployed frontend: `https://task-management-frontend-pi-peach.vercel.app`
 - [ ] Deployed backend: `https://task-manager-backend-6wru.onrender.com`
 - [ ] FRD: docs/FRD.md and `https://docs.google.com/document/d/1yO3hqjvTvu7Qe5DCo6ivsnsTUrxP1rYqyC6BYFtd1XM/edit?usp=sharing`
-- [ ] Loom: add after recording
+- [ ] Loom: `https://www.loom.com/share/01f4a13c748d47758a509991d01fb9da`
 
 ## Loom outline (5-7 minutes)
 

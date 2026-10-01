@@ -3,6 +3,14 @@
 @tailwind utilities;
 
 @layer base {
-  body { @apply bg-slate-50 text-slate-900 antialiased; }
-  input, select, textarea { @apply outline-none; }
+  html { @apply bg-slate-50; }
+  body { @apply min-w-[320px] bg-slate-50 text-slate-900 antialiased; background-image: radial-gradient(circle at 5% -10%, rgba(199, 210, 254, 0.9), transparent 31rem), radial-gradient(circle at 100% 5%, rgba(233, 213, 255, 0.72), transparent 28rem); }
+  button, input, select, textarea { @apply outline-none; }
+  textarea, select { @apply transition duration-200; }
+  textarea:focus, select:focus { @apply border-indigo-500 ring-4 ring-indigo-100/80; }
+  ::selection { @apply bg-indigo-200 text-indigo-950; }
+  ::-webkit-scrollbar { width: 10px; height: 10px; }
+  ::-webkit-scrollbar-track { @apply bg-slate-100; }
+  ::-webkit-scrollbar-thumb { @apply rounded-full bg-slate-300; }
+  ::-webkit-scrollbar-thumb:hover { @apply bg-slate-400; }
 }

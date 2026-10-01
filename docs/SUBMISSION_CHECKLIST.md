@@ -2,11 +2,12 @@
 
 Replace these placeholders before sending the assignment:
 
-- [ ] GitHub repository: `ADD_GITHUB_REPOSITORY_URL`
-- [ ] Deployed frontend: `ADD_VERCEL_OR_NETLIFY_URL`
-- [ ] Deployed backend: `ADD_RENDER_API_URL`
-- [ ] FRD: `docs/FRD.md`
-- [ ] Loom recording: `ADD_LOOM_VIDEO_URL`
+- [ ] GitHub (frontend): `https://github.com/GauravSaini003/task-management-frontend`
+- [ ] GitHub (backend): `https://github.com/GauravSaini003/task-manager-backend-`
+- [ ] Deployed frontend: `https://task-management-frontend-pi-peach.vercel.app`
+- [ ] Deployed backend: `https://task-manager-backend-6wru.onrender.com`
+- [ ] FRD: docs/FRD.md and `https://docs.google.com/document/d/1yO3hqjvTvu7Qe5DCo6ivsnsTUrxP1rYqyC6BYFtd1XM/edit?usp=sharing`
+- [ ] Loom: add after recording
 
 ## Loom outline (5-7 minutes)
 
